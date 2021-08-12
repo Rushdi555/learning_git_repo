@@ -20,7 +20,7 @@ It will show this page with specific ID of each commit:
 
 learnt how to add an SSH key to github so that I can clone it like the tutorial, was a pain in the ass
 
-## Local commit
+## Local commit and push to github
 
 different than commiting from github
 
@@ -28,10 +28,12 @@ different than commiting from github
 
 see git_commands.txt
 
-## git branching
+## git branching and merging 
 
 by feature-readme-instructions branch
 compare and pull request
+![image](https://user-images.githubusercontent.com/45483476/129173934-3b4afb31-2dc5-4a08-8c10-d2c5f9775d93.png)
+
 
 ## git branch conflict
 
