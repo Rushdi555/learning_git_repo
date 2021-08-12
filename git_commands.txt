@@ -19,3 +19,12 @@ git branch -d
 #deleting branch
 git commit -am
 #to commit existing files
+git reset
+#undo git
+git reset HEAD~1 
+#undo 1 commit back of last commit 
+git log
+#log of all commits
+git reset HASHOFLASTCOMMIT
+git reset --hard HASHOFLASTCOMMIT
+#also undo code

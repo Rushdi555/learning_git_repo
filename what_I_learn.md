@@ -31,9 +31,12 @@ see git_commands.txt
 ## git branching
 
 by feature-readme-instructions branch
+compare and pull request
 
 ## git branch conflict
 
 using quick-test branch
 
 ## undo git
+
+reset, reset hard and git log
