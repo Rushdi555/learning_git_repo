@@ -5,3 +5,10 @@ description is under.
 There are many other shortcuts for mark down files
 
 when I edit, it means I am commiting changes
+
+I can view the commit history at the top right box
+
+It will show this page:
+![image](https://user-images.githubusercontent.com/45483476/129136907-6cbfcc09-251e-4146-bb3d-058262124891.png)
+
+
