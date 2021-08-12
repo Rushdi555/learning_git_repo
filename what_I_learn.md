@@ -31,3 +31,5 @@ see git_commands.txt
 ## git branching
 
 by feature-readme-instructions branch
+
+## git branch conflict

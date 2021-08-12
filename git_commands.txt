@@ -6,10 +6,16 @@ git commit -m "Title" -m "description"
 git remote add origin LINKSSH
 git remote -v
 #shows remote git repo connected
-git push -u origin master
+git push -u origin DEFAULTBRANCH
 #set default push
 git branch
 git checkout -b
 #new brach
 git checkout 
 #swtich between branch
+git diff BRANCHNAME
+git pull origin BRACHNAME
+git branch -d
+#deleting branch
+git commit -am
+#to commit existing files
