@@ -1,6 +1,8 @@
 # Main header uses 1 hashtag
 
 description is under. 
+
+## subheader uses 2 hashtag
 learning from:
 https://www.youtube.com/watch?v=RGOj5yH7evk&t=980s
 
