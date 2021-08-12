@@ -1,0 +1,15 @@
+git init
+git status
+git add FILENAME or .
+#'.' for all
+git commit -m "Title" -m "description"
+git remote add origin LINKSSH
+git remote -v
+#shows remote git repo connected
+git push -u origin master
+#set default push
+git branch
+git checkout -b
+#new brach
+git checkout 
+#swtich between branch
