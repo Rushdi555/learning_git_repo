@@ -40,3 +40,8 @@ using quick-test branch
 ## undo git
 
 reset, reset hard and git log
+
+## forking
+
+fork other repositories
+editing and merging pranches of forked repo
