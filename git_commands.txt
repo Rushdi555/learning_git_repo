@@ -9,6 +9,8 @@ git remote -v
 git push -u origin DEFAULTBRANCH
 #set default push
 git branch
+git diff
+#see difference between file and in git
 git checkout -b
 #new brach
 git checkout 
